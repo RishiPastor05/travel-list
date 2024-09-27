@@ -14,7 +14,7 @@ export default function Stats({ items }) {
         {percentPacked === 100
           ? "You got everything! Ready to go ✈️"
           : `👜 You have ${itemsLength} items on your list, and you already packed
-        ${itemsPacked}(${percentPacked}%)`}
+        ${itemsPacked}(${percentPacked}%) items`}
       </em>
     </footer>
   );
