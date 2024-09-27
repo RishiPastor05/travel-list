@@ -1,1 +1,1 @@
-# "Hello This is a travel-list preparation app."
+# "Hello this is a travel-list preparation website."
